@@ -1,6 +1,6 @@
 ### Olá! eu sou o João Victor Balhego 
 
-[![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/joao_balhego?igsh=MWF6enVpcGNmdXhidA==)[![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/)[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
+
 
 ![BalhegoJ GitHub stats](https://github-readme-stats.vercel.app/api?username=BAlhegoJ&show_icons=true&theme=highcontrast)
 
@@ -13,9 +13,4 @@
 Estudande de Ciência Da Computação e apaixonado por tecnologia, em constante aprendizado 🫡. por tecnologia, em constante aprendizado 🫡.
 
 
-
-###
-
-<img src="https://raw.githubusercontent.com/BalhegoJ/BalhegoJ/output/snake.svg" alt="Snake animation" />
-
-###
+[![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/joao_balhego?igsh=MWF6enVpcGNmdXhidA==)[![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/)[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
