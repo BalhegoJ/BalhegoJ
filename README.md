@@ -4,10 +4,14 @@
 
 </div>
 
-<div align="center">
+ <br>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Tenor+Sans&pause=1000&color=F70000&center=true&width=435&lines=Hello%2C+my+name+is+Jo%C3%A3o+Victor;I'm+23+years+old;I'm+Computer+Science+Student+;I'm+from+Brazil;Welcome%3A)](https://git.io/typing-svg)
-<div/>
+ <div align="center">
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Tenor+Sans&size=25&pause=1000&color=F70000&center=true&vCenter=true&width=435&lines=Hello%2C+my+name+is+Jo%C3%A3o+Victor;I'm+23+years+old;I'm+Computer+Science+Student+;I'm+from+Brazil;Welcome%3A)](https://git.io/typing-svg)
+
+</div>
+
 <br>
 
 <div align="center">
