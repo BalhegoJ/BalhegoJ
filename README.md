@@ -1,8 +1,4 @@
-### Olá! eu sou o João Victor Balhego 
-
-
-
-![BalhegoJ GitHub stats](https://github-readme-stats.vercel.app/api?username=BAlhegoJ&show_icons=true&theme=highcontrast)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F70404&width=435&lines=Hello%2C+my+name+is+Jo%C3%A3o+Victor;I'm+23+years+old;I'm+computer+science+student;I'm+from+Brazil;Welcome%3A)](https://git.io/typing-svg)
 
 ### Tecnologias usadas no meu dia a dia.
 
