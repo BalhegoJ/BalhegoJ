@@ -5,8 +5,18 @@
 ![BalhegoJ GitHub stats](https://github-readme-stats.vercel.app/api?username=BAlhegoJ&show_icons=true&theme=highcontrast)
 
 
-[![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/joao_balhego?igsh=MWF6enVpcGNmdXhidA==)
-[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
+<div align="center">
+  <a href="(https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="<a href="malito:jvbbalhego@gmail.com">Enviar e-mail para mim</a>" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+  </a>
+  <a href="https://www.instagram.com/joao_balhego?igsh=MWF6enVpcGNmdXhidA==" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+  </a>
+</div>
+
 
 
 ### Tecnologias usadas no meu dia a dia.
@@ -16,3 +26,11 @@
 
 
 Estudande de Ciência Da Computação e apaixonado por tecnologia, em constante aprendizado 🫡.
+
+
+
+###
+
+<img src="https://raw.githubusercontent.com/BalhegoJ/BalhegoJ/output/snake.svg" alt="Snake animation" />
+
+###
